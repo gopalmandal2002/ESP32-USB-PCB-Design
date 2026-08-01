@@ -27,7 +27,7 @@ The project includes:
 
 ## PCB Layout
 
-![PCB Layout](images/pcb-layout.png)
+![PCB Layout](images/Layout.png)
 
 The PCB layout was created in KiCad PCB Editor with appropriate
 component placement, signal routing, power connections, and board
