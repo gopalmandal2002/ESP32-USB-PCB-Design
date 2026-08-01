@@ -26,15 +26,11 @@ The project includes:
 - 3D PCB visualization
 
 ## PCB Layout
-
-![PCB Layout](images/Layout.png)
-
 The PCB layout was created in KiCad PCB Editor with appropriate
 component placement, signal routing, power connections, and board
 geometry.
 
 ## PCB Routing
-
 ![PCB Routing]([images/pcb-routing.png](https://github.com/gopalmandal2002/ESP32-USB-PCB-Design/blob/main/USB%20board%20layout.png)
 
 Signal and power traces were routed while considering electrical
@@ -48,8 +44,6 @@ A keep-out region was maintained around the ESP32 antenna section
 to minimize interference from copper traces, planes, and components.
 
 ## Gerber Verification
-
-![Gerber View](images/gerber-view.png)
 
 Manufacturing files were generated and inspected using the KiCad
 Gerber Viewer before fabrication.
