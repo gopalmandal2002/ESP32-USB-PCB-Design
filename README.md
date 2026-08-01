@@ -35,14 +35,14 @@ geometry.
 
 ## PCB Routing
 
-![PCB Routing](images/pcb-routing.png)
+![PCB Routing]([images/pcb-routing.png](https://github.com/gopalmandal2002/ESP32-USB-PCB-Design/blob/main/USB%20board%20layout.png)
 
 Signal and power traces were routed while considering electrical
 connectivity, trace clearance, and PCB design rules.
 
 ## ESP32 Antenna Keep-Out Zone
 
-![Antenna Keepout](images/antenna-keepout.png)
+![Antenna Keepout]([images/antenna-keepout.png](https://github.com/gopalmandal2002/ESP32-USB-PCB-Design/blob/main/ESP32%20USB%20PCB%20Layout.png))
 
 A keep-out region was maintained around the ESP32 antenna section
 to minimize interference from copper traces, planes, and components.
