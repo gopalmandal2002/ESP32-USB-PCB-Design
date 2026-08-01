@@ -56,7 +56,7 @@ Gerber Viewer before fabrication.
 
 ## 3D PCB Visualization
 
-![3D PCB](images/pcb-3d-view.png)
+![3D PCB]([images/pcb-3d-view.png](https://github.com/gopalmandal2002/ESP32-USB-PCB-Design/blob/main/PCB%203D.png)
 
 The completed PCB was inspected using KiCad's 3D Viewer to verify
 board geometry, component placement, and overall mechanical layout.
